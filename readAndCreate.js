@@ -1,5 +1,4 @@
 // read data from a file
-
 const fs = require('fs')
 
 fs.readFile('./data.json', (e, data) =>{
